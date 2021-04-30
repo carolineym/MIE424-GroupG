@@ -37,9 +37,9 @@ To run the code properly, the following folder structure needs to be maintained:
 │   └── without_mask
 │   └── with_mask
 │   └── mask_weared_incorrectly
-├── CIFAR_10_Testing # This folder will keep the cache for CIFAR_10 testing data for faster training
+├── CIFAR_10_Testing # This folder will keep the cache for CIFAR_10 testing data for faster training, the dataset can be download from the google drive shared folder
 │   ├── cifar-10-batches-py
-├── CIFAR_10 # This folder will keep the cache for CIFAR_10 training data for faster training
+├── CIFAR_10 # This folder will keep the cache for CIFAR_10 training data for faster training, the dataset can be download from the google drive shared folder
 │   ├── cifar-10-batches-py
 ├── MIE424_ProjectCode.ipynb # Main Project Code
 ├── CroppingAnnotatedImg.zip # This folder contains code to generate cropped image for the Kaggle face mask dataset which is not required to run the main project code.
